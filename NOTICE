@@ -34,7 +34,12 @@ commercially-licensed 喜脉喜欢体 and 鸿雷小纸条青春体 listed above.
 
 Bundled artwork:
 
-- public/widgets/*老橙子素材*.png: decorative sticker artwork by 老橙子,
-  free-to-use material pack, used with permission.
+- public/widgets/*老橙子素材*.png: commercial sticker artwork by 老橙子,
+  used under a commercial-use license purchased by the project author.
+  These image files are NOT covered by this project's AGPL-3.0 license.
+  They are included solely as part of this application's built-in UI.
+  Do not extract, reuse, or redistribute them outside this project.
+  （此素材为作者购买的商用素材，不随本项目开源授权；仅作为应用内置
+  界面素材使用，禁止单独提取、二次分发或用于其他项目。）
 - public/models/ 3D assets: generated with Tripo AI under a paid plan
   (outputs owned by the project author).
